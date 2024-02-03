@@ -1,0 +1,1 @@
+Small generative language model using Markov chains to generate compliments based on a small dataset. Generates nonsense compliments. For this task a Markov Chain was required, but for better results more advanced machine learning models are recommended.
